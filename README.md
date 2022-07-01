@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amenity42
 - 👀 I’m interested in Robotics, programming, technology & science.
-- 🌱 I’m currently learning JavaScript & C# 
+- 🌱 I’m currently learning JavaScript (As well as the React framework), TypeScript & C# 
 
 
 <!---
